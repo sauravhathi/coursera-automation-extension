@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "Coursera Automation Extension",
+  "version": "1.0.0",
+  "author": "Saurav Hathi",
+  "version_name": "Release Version",
+  "description": "This extension is used to attempt the coursera course quiz, video, reading material, ungraded plugin and discussion automatically.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "/scripts/background.js"
+  },
+  "icons": {
+    "16": "images/1.png",
+    "32": "images/2.png",
+    "48": "images/3.png",
+    "128": "images/4.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": [
+        "*://*.coursera.org/*"
+      ],
+      "js": [
+        "/scripts/minifyContent.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["minifyrdr.js"],
+      "matches": ["*://*.coursera.org/*"]
+    }
+  ],
+  "host_permissions": ["<all_urls>"]
+}
