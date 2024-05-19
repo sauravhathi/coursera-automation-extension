@@ -2,6 +2,8 @@
 
 This Extension is designed to automate the process of completing Coursera courses. It can be used to complete quizzes, lectures, reading materials, ungraded plugins, and discussions.
 
+`Note:` Numerical type questions answers may not be accurate.
+
 ## Table of Contents
 - [Demo](#demo)
 - [Features](#features)
