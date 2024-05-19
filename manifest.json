@@ -28,6 +28,9 @@
       ],
       "js": [
         "/scripts/minifyContent.js"
+      ],
+      "css": [
+        "/styles/content.css"
       ]
     }
   ],
