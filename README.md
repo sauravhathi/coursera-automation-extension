@@ -71,13 +71,13 @@ Extension will automatically get the solutions and mark the correct options.
 
 [https://forms.gle/K7G7BYLfYX32UM9r6](https://forms.gle/K7G7BYLfYX32UM9r6)
 
-| S.No | Quotas | Price(₹) | Validity(Months) |
-|------|-------|----------|------------------|
-| 1    | 200   | 500      | 6                |
-| 2    | 400   | 700      | 12               |
-| 3    | 600   | 1000     | 36               |
+| S.No | Credits | Price (₹/USD)     | Validity (Months) |
+|------|---------|-------------------|--------------------|
+| 1    | 200     | 500 / 8.5         | 6                  |
+| 2    | 400     | 700 / 10.5        | 12                 |
+| 3    | 600     | 1000 / 15         | 36                 |
 
-`Note:` No refund after quota assigned
+`Note:` No refund after Credits assigned
 
 ## Keyboard Shortcuts
 
