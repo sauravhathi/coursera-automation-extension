@@ -1,6 +1,6 @@
 # Coursera Automation Extension
 
-This Extension is designed to automate the process of completing Coursera courses. It can be used to complete quizzes, lectures, reading materials, ungraded plugins, and discussions.
+Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, and discussions. Note that quiz completion is not free.
 
 `Note:` Numerical type questions answers may not be accurate.
 
