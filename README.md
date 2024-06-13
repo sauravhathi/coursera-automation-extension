@@ -19,7 +19,7 @@ This Extension is designed to automate the process of completing Coursera course
 ## Demo (YouTube)
 
 <div align="center">
-  <a href="https://youtu.be/9abUi5cl3Yw"><img src="https://img.youtube.com/vi/9abUi5cl3Yw/0.jpg" alt="Coursera Automation Extension"></a>
+  <a href="https://youtu.be/jKkWUVLRLnE"><img src="https://i.ytimg.com/vi/jKkWUVLRLnE/hqdefault.jpg" alt="Coursera Automation Extension"></a>
 </div>
 
 ## Features
