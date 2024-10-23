@@ -1,6 +1,6 @@
 # Coursera Automation Extension
 
-This Extension is designed to automate the process of completing Coursera courses. It can be used to complete quizzes, lectures, reading materials, ungraded plugins, and discussions.
+Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, and discussions. Note that quiz completion is not free.
 
 `Note:` Numerical type questions answers may not be accurate.
 
@@ -19,7 +19,7 @@ This Extension is designed to automate the process of completing Coursera course
 ## Demo (YouTube)
 
 <div align="center">
-  <a href="https://youtu.be/9abUi5cl3Yw"><img src="https://img.youtube.com/vi/9abUi5cl3Yw/0.jpg" alt="Coursera Automation Extension"></a>
+  <a href="https://youtu.be/jKkWUVLRLnE"><img src="https://i.ytimg.com/vi/jKkWUVLRLnE/hqdefault.jpg" alt="Coursera Automation Extension"></a>
 </div>
 
 ## Features
@@ -71,13 +71,13 @@ Extension will automatically get the solutions and mark the correct options.
 
 [https://forms.gle/K7G7BYLfYX32UM9r6](https://forms.gle/K7G7BYLfYX32UM9r6)
 
-| S.No | Quotas | Price(₹) | Validity(Months) |
-|------|-------|----------|------------------|
-| 1    | 200   | 500      | 6                |
-| 2    | 400   | 700      | 12               |
-| 3    | 600   | 1000     | 36               |
+| S.No | Credits | Price (₹/USD)     | Validity (Months) |
+|------|---------|-------------------|--------------------|
+| 1    | 200     | 500 / 8.5         | 6                  |
+| 2    | 400     | 700 / 10.5        | 12                 |
+| 3    | 600     | 1000 / 15         | 36                 |
 
-`Note:` No refund after quota assigned
+`Note:` No refund after Credits assigned
 
 ## Keyboard Shortcuts
 
