@@ -1,10 +1,8 @@
+blank_issues_enabled: false
 contact_links:
   - name: Contribution Guidelines
     url: https://github.com/sauravhathi/coursera-automation-extension/blob/master/guidelines.md
-    about: Please read our guidelines before submitting an issue.
+    about: Please read our guidelines before submitting an issue to understand our expectations and processes.
   - name: Code of Conduct
     url: https://github.com/sauravhathi/coursera-automation-extension/blob/master/CODE_OF_CONDUCT.md
-    about: Please follow our code of conduct when contributing.
-  - name: FAQ
-    url: https://github.com/sauravhathi/coursera-automation-extension/blob/master/FAQ.md
-    about: Check our FAQ for common questions.
+    about: We value respectful interactions. Please adhere to our code of conduct.
