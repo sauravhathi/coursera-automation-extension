@@ -1,4 +1,7 @@
-# Coursera Automation Extension
+# Coursera Automation Extension 
+![Version](https://img.shields.io/badge/version-1.2.5-blue) 
+![License](https://img.shields.io/badge/license-MIT-green) 
+![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
 Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, and discussions. Note that quiz completion is not free.
 
