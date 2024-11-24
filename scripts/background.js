@@ -8,10 +8,10 @@ chrome.runtime.onInstalled.addListener(function (details) {
 });
 
 chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
-    if (changeInfo.url) {
+    if (tab.url && tab.status === 'complete') {
         chrome.tabs.sendMessage(tabId, {
             message: 'urlChanged',
-            url: changeInfo.url
+            url: tab.url
         }, function (response) {
             if (chrome.runtime.lastError) { } else { }
         });
