@@ -55,7 +55,7 @@ Only for `Quiz Automation`.
 ## How to use
 
 1. Open your Coursera course.
-2. Press Alt + W to access the extension.
+2. Press Alt + W to open/close the extension Popup.
 3. Choose the task you want to automate.
 4. Sit back while the Extension completes the task.
 
@@ -84,9 +84,9 @@ Extension will automatically get the solutions and mark the correct options.
 
 ## Keyboard Shortcuts
 
-- `Alt + W` or `Ctrl + Shift + W`: Open the Extension
-- `Alt + X` or `Ctrl + Shift + X`: Activate the account
-- `Alt + Z` or `Ctrl + Shift + Z`: Refresh the answers
+- `Alt + W` or `Ctrl + Shift + W`(Mac): Open the Extension
+- `Alt + X` or `Ctrl + Shift + X`(Mac): Activate the account
+- `Alt + Z` or `Ctrl + Shift + Z`(Mac): Refresh the answers
 
 ## Author
 
