@@ -1,5 +1,5 @@
 # Coursera Automation Extension 
-![Version](https://img.shields.io/badge/version-1.4.0-blue) 
+![Version](https://img.shields.io/badge/version-2.4.0-blue) 
 ![License](https://img.shields.io/badge/license-MIT-green) 
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
@@ -55,7 +55,7 @@ Only for `Quiz Automation`.
 ## How to use
 
 1. Open your Coursera course.
-2. Press Alt + W to access the extension.
+2. Click on the Extension icon.
 3. Choose the task you want to automate.
 4. Sit back while the Extension completes the task.
 
@@ -84,7 +84,7 @@ Extension will automatically get the solutions and mark the correct options.
 
 ## Keyboard Shortcuts
 
-- `Alt + W` or `Ctrl + Shift + W`: Open the Extension
+- `Alt + W` or `Alt + B`: Toggle the Extension
 - `Alt + X` or `Ctrl + Shift + X`: Activate the account
 - `Alt + Z` or `Ctrl + Shift + Z`: Refresh the answers
 

@@ -17,3 +17,9 @@ chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
         });
     }
 });
+
+chrome.commands.onCommand.addListener((command) => {
+    if (command === "open_popup_1" || command === "open_popup_2") {
+        chrome.action.openPopup();
+    }
+});

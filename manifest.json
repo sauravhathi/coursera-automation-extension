@@ -1,16 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Coursera Automation Extension",
-  "version": "1.4.0",
+  "version": "2.4.0",
   "author": "Saurav Hathi",
   "version_name": "Release Version",
   "description": "This extension is used to attempt the coursera course quiz, video, reading material, ungraded plugin and discussion automatically.",
-  "permissions": [
-    "storage",
-    "activeTab",
-    "scripting",
-    "tabs"
-  ],
+  "permissions": ["storage", "activeTab", "scripting", "tabs", "commands"],
   "background": {
     "service_worker": "/scripts/background.js"
   },
@@ -20,25 +15,38 @@
     "48": "images/3.png",
     "128": "images/4.png"
   },
+  "action": {
+    "default_popup": "/popup/popup.html"
+  },
   "content_scripts": [
     {
       "run_at": "document_start",
-      "matches": [
-        "*://*.coursera.org/*"
-      ],
-      "js": [
-        "/scripts/minifyContent.js"
-      ],
-      "css": [
-        "/styles/content.css"
-      ]
+      "matches": ["*://*.coursera.org/*"],
+      "js": ["/scripts/minifyContent.js"],
+      "css": ["/styles/content.css"]
     }
   ],
+  "commands": {
+    "open_popup_1": {
+      "suggested_key": {
+        "default": "Alt+B",
+        "mac": "Command+B"
+      },
+      "description": "Open the Course Automation Extension popup window with Alt+B"
+    },
+    "open_popup_2": {
+      "suggested_key": {
+        "default": "Alt+W",
+        "mac": "Command+W"
+      },
+      "description": "Open the Course Automation Extension popup window with Alt+W"
+    }
+  },
   "web_accessible_resources": [
     {
       "resources": ["minifyrdr.js"],
       "matches": ["*://*.coursera.org/*"]
     }
   ],
-  "host_permissions": ["<all_urls>"]
+  "host_permissions": ["*://*.coursera.org/*"]
 }
