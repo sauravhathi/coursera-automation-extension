@@ -48,10 +48,6 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 Check the [Pricing](#pricing) section for more details.
 Only for `Quiz Automation`.
 
-1. Visit your Coursera course.
-2. Press Alt + X to activate the account.
-3. Wait for the activation confirmation.
-
 ## How to use
 
 1. Open your Coursera course.
@@ -85,7 +81,6 @@ Extension will automatically get the solutions and mark the correct options.
 ## Keyboard Shortcuts
 
 - `Alt + W` or `Alt + B`: Toggle the Extension
-- `Alt + X` or `Ctrl + Shift + X`: Activate the account
 - `Alt + Z` or `Ctrl + Shift + Z`: Refresh the answers
 
 ## Author
