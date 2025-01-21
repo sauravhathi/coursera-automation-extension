@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Coursera Automation Extension",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "author": "Saurav Hathi",
   "version_name": "Release Version",
   "description": "This extension is used to attempt the coursera course quiz, video, reading material, ungraded plugin and discussion automatically.",
