@@ -1,3 +1,9 @@
-rdr.js
-scripts/content.js
-popup/popup-o.js
+node_modules/
+src/
+webpack.config.js
+package*.json
+secure.js
+.prettierignore
+.prettierrc
+eslint.config.js
+tsconfig.json
