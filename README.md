@@ -37,6 +37,20 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 - Complete discussions
 - Shareable link
 
+## 🛠️ Feature Status
+
+`Note:` There may be a slight delay(5-15 minutes) in showing the "completed" status for tasks.
+
+| Feature                   | Status      | Notes                                      |
+|---------------------------|-------------|--------------------------------------------|
+| Complete quizzes          | 🟢 Working   |                                            |
+| Complete lectures         | 🟢 Working   |                                            |
+| Complete reading materials| 🟢 Working   |                                            |
+| Complete ungraded plugins | 🟢 Working   |                                            |
+| Complete discussions      | 🟢 Working   |                                            |
+| Shareable link            | 🟢 Working   |                                            |
+| Quiz automation  | 🟢 Working | Feedback-based accuracy improvement.       |
+
 ## Installation
 
 1. Clone or download the repository.
