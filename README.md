@@ -28,15 +28,6 @@ Using this extension, complete Coursera courses within seconds. It can be used f
   <a href="https://youtu.be/jKkWUVLRLnE"><img src="https://i.ytimg.com/vi/jKkWUVLRLnE/hqdefault.jpg" alt="Coursera Automation Extension"></a>
 </div>
 
-## Features
-
-- Complete quizzes (using Feedback to improve the accuracy of the answers)
-- Complete lectures(videos)
-- Complete reading materials
-- Complete ungraded plugins
-- Complete discussions
-- Shareable link
-
 ## 🛠️ Feature Status
 
 `Note:` There may be a slight delay(5-15 minutes) in showing the "completed" status for tasks.
