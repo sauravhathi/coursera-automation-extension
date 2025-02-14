@@ -104,7 +104,7 @@ Extension will automatically get the solutions and mark the correct options.
 
 If you find this extension helpful, consider supporting its development to keep it alive and growing! Every contribution makes a difference. ❤️
 
-- Donate via UPI: devfund@airtel
+- Donate via UPI: devjs@jio
 - [Sponsor me on GitHub](https://github.com/sponsors/sauravhathi)
 - [Buy me a coffee](https://www.buymeacoffee.com/sauravhathi)
 - [Donate via PayPal](https://paypal.me/sauravkumar680)
