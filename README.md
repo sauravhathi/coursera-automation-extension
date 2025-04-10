@@ -1,6 +1,6 @@
 # Coursera Automation Extension
 
-![Version](https://img.shields.io/badge/version-3.5.4-blue)
+![Version](https://img.shields.io/badge/version-3.5.5-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
@@ -30,17 +30,15 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 
 ## 🛠️ Feature Status
 
-`Note:` There may be a slight delay(5-15 minutes) in showing the "completed" status for tasks.
-
-| Feature                   | Status      | Notes                                      |
-|---------------------------|-------------|--------------------------------------------|
-| Complete quizzes          | 🟢 Working   |                                            |
-| Complete lectures         | 🟢 Working   |                                            |
-| Complete reading materials| 🟢 Working   |                                            |
-| Complete ungraded plugins | 🟢 Working   |                                            |
-| Complete discussions      | 🟢 Working   |                                            |
-| Shareable link            | 🟢 Working   |                                            |
-| Quiz automation  | 🟢 Working | Feedback-based accuracy improvement.       |
+| Feature                    | Status     | Notes                                |
+| -------------------------- | ---------- | ------------------------------------ |
+| Complete quizzes           | 🟢 Working |                                      |
+| Complete lectures          | 🟢 Working |                                      |
+| Complete reading materials | 🟢 Working |                                      |
+| Complete ungraded plugins  | 🟢 Working |                                      |
+| Complete discussions       | 🟢 Working |                                      |
+| Shareable link             | 🟢 Working |                                      |
+| Quiz automation            | 🟢 Working | Feedback-based accuracy improvement. |
 
 ## Installation
 
