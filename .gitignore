@@ -7,3 +7,4 @@ secure.js
 .prettierrc
 eslint.config.js
 tsconfig.json
+yarn.lock
