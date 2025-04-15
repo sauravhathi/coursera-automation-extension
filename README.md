@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
+> 🚀 **Visit the Official Website:** [👉 algoplug.com/products/coursera-automation](https://algoplug.com/products/coursera-automation)
+
 Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, discussions, and shareable link. `Note:` Quiz completion is a paid feature.
 
 `Disclaimer:` Quiz Automation provides AI-generated answers, which may not always be accurate.
@@ -11,24 +13,22 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 ## Table of Contents
 
 - [Demo](#demo)
-- [Features](#features)
+- [Features](#features-status)
 - [Installation](#installation)
-- [Activation for Quiz Automation](#activation-paid)
 - [How to use](#how-to-use)
 - [Shareable Link](#shareable-link)
 - [Quiz Automation](#quiz-automation)
-- [Pricing](#pricing)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Author](#author)
 - [License](#license)
 
-## Demo (YouTube)
+## Demo
 
 <div align="center">
   <a href="https://youtu.be/jKkWUVLRLnE"><img src="https://i.ytimg.com/vi/jKkWUVLRLnE/hqdefault.jpg" alt="Coursera Automation Extension"></a>
 </div>
 
-## 🛠️ Feature Status
+## Features Status
 
 | Feature                    | Status     | Notes                                |
 | -------------------------- | ---------- | ------------------------------------ |
@@ -49,11 +49,6 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 5. Click on `Load unpacked`.
 6. Select the downloaded folder.
 7. The extension will be added to the browser.
-
-## Activation (Paid)
-
-Check the [Pricing](#pricing) section for more details.
-Only for `Quiz Automation`.
 
 ## How to use
 
@@ -80,18 +75,6 @@ Extension will automatically get the solutions and mark the correct options.
 2. **Wait 10 seconds** for answers to load.
 3. If answers aren't marked correctly, press Alt + Z for a refresh.
 4. Submit your answers.
-
-## Pricing
-
-[https://forms.gle/K7G7BYLfYX32UM9r6](https://forms.gle/K7G7BYLfYX32UM9r6)
-
-| S.No | Credits | Price (₹/USD) | Validity (Months) |
-| ---- | ------- | ------------- | ----------------- |
-| 1    | 200     | 500 / 8.5     | 6                 |
-| 2    | 400     | 700 / 10.5    | 12                |
-| 3    | 600     | 1000 / 15     | 36                |
-
-`Note:` No refund after Credits assigned
 
 ## Keyboard Shortcuts
 
