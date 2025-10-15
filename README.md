@@ -1,10 +1,10 @@
 # Coursera Automation Extension
 
-![Version](https://img.shields.io/badge/version-3.5.7-blue)
+![Version](https://img.shields.io/badge/version-3.5.8-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
-> 🚀 **Visit the Official Website:** [👉 algoplug.com/products/coursera-automation](https://www.algoplug.com/products/coursera-automation)
+> 🚀 **Visit the Official Website:** [👉 algoplug.com/products/coursera-automation](https://algoplug.com/products/coursera-automation)
 
 Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, discussions, and shareable link. `Note:` Quiz completion is a paid feature.
 
