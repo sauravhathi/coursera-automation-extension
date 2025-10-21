@@ -1,3 +1,4 @@
+/* src/ui/popup.css  */
 #author,
 #footer,
 .courseraModelBtn {
@@ -43,6 +44,7 @@ body {
   background-color: var(--secondary-color);
   color: var(--primary-color);
   cursor: pointer;
+  width: 100%;
   white-space: nowrap;
 }
 
@@ -59,4 +61,46 @@ body {
   gap: 10px;
   color: #fff;
   margin-top: 20px;
+}
+
+
+.courseraBtnWrapper {
+  position: relative;
+  display: inline-block;
+  margin: 8px;
+}
+
+.courseraTooltip {
+  visibility: hidden;
+  width: 260px;
+  background-color: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 8px;
+  padding: 8px 10px;
+  position: absolute;
+  z-index: 10;
+  bottom: 125%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+  font-size: 12px;
+  line-height: 1.4;
+  pointer-events: none;
+}
+
+.courseraBtnWrapper:hover .courseraTooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.courseraTooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: #333 transparent transparent transparent;
 }
