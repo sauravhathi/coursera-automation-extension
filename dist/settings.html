@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Settings</title>
+  <link rel="stylesheet" href="ui/settings.css" />
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1>Settings</h1>
+    </header>
+    
+    <div class="tabs">
+      <div class="tab active" data-tab="course">Course Backup</div>
+    </div>
+
+    <div id="course" class="tab-content active">
+      <section>
+        <h3>Course Backup Settings</h3>
+        <label for="concurrency">Concurrent Downloads</label>
+        <input type="number" id="concurrency" min="1" max="10" value="5" />
+
+        <label for="quality">Video Quality</label>
+        <select id="quality">
+          <option value="720p">720p</option>
+          <option value="540p">540p</option>
+          <option value="360p">360p</option>
+        </select>
+
+        <label for="subtitle">Subtitle Language</label>
+        <select id="subtitle"></select>
+      </section>
+
+      <button id="saveBtn">💾 Save Settings</button>
+      <div id="status"></div>
+    </div>
+  </div>
+
+  <script src="scripts/settings.js"></script>
+</body>
+
+</html>
