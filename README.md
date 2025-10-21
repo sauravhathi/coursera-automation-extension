@@ -6,7 +6,7 @@
 
 > 🚀 **Visit the Official Website:** [👉 algoplug.com/products/coursera-automation](https://algoplug.com/products/coursera-automation)
 
-Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, discussions, and shareable link. `Note:` Quiz completion is a paid feature.
+Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, discussions, and shareable link. `Note:` Quiz completion and Course backup is a paid feature.
 
 `Disclaimer:` Quiz Automation provides AI-generated answers, which may not always be accurate.
 
