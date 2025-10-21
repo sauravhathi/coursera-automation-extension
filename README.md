@@ -39,7 +39,7 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 | Complete discussions       | 🟢 Working |                                      |
 | Shareable link             | 🟢 Working |                                      |
 | Quiz automation            | 🟢 Working | Feedback-based accuracy improvement. |
-| Course Backup              | 🟢 Working |                                      |
+| Course Backup              | 🟢 Working | [Watch Demo](https://youtu.be/KpmoToGLD-I) |
 
 ## Installation
 
