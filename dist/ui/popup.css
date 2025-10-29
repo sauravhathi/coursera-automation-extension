@@ -12,7 +12,7 @@
 #courseraModel,
 body {
   background-color: var(--background-color);
-  padding: 10px;
+  padding: 20px;
   border-radius: 10px;
   width: fit-content;
   height: fit-content;
@@ -61,8 +61,8 @@ body {
   gap: 10px;
   color: #fff;
   margin-top: 20px;
+  cursor: pointer;
 }
-
 
 .courseraBtnWrapper {
   position: relative;
@@ -81,7 +81,7 @@ body {
   position: absolute;
   z-index: 10;
   bottom: 125%;
-  transform: translateX(-50%);
+  transform: translateX(-75%);
   opacity: 0;
   transition: opacity 0.2s ease-in-out;
   font-size: 12px;
