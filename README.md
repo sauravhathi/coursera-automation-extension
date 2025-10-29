@@ -1,12 +1,12 @@
 # Coursera Automation Extension
 
-![Version](https://img.shields.io/badge/version-3.5.11-blue)
+![Version](https://img.shields.io/badge/version-3.6.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
 > 🚀 **Visit the Official Website:** [👉 algoplug.com/products/coursera-automation](https://algoplug.com/products/coursera-automation)
 
-Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, discussions, shareable link and course backup. `Note:` Quiz completion and Course backup is a paid feature.
+Using this extension, complete Coursera courses within seconds. It can be used for free to complete lectures, reading materials, ungraded assignments, discussions, shareable link and course backup. `Note:` Quiz completion, Skip Video+ and Course backup is a paid feature.
 
 `Disclaimer:` Quiz Automation provides AI-generated answers, which may not always be accurate.
 
@@ -17,6 +17,7 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 - [Installation](#installation)
 - [How to use](#how-to-use)
 - [Shareable Link](#shareable-link)
+- [Skip Video+](#skipvideoplus)
 - [Quiz Automation](#quiz-automation)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Author](#author)
@@ -30,16 +31,17 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 
 ## Features Status
 
-| Feature                    | Status     | Notes                                |
-| -------------------------- | ---------- | ------------------------------------ |
-| Complete quizzes           | 🟢 Working | [Watch Demo](https://youtu.be/TrJqspKdKlw) |
-| Complete lectures          | 🟢 Working |                                      |
-| Complete reading materials | 🟢 Working |                                      |
-| Complete ungraded plugins  | 🟢 Working |                                      |
-| Complete discussions       | 🟢 Working |                                      |
-| Shareable link             | 🟢 Working |                                      |
+| Feature                    | Status     | Notes                                                                           |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------- |
+| Complete quizzes           | 🟢 Working | [Watch Demo](https://youtu.be/TrJqspKdKlw)                                      |
+| Complete lectures          | 🟢 Working |                                                                                 |
+| Complete reading materials | 🟢 Working |                                                                                 |
+| Complete ungraded plugins  | 🟢 Working |                                                                                 |
+| Complete discussions       | 🟢 Working |                                                                                 |
+| Shareable link             | 🟢 Working |                                                                                 |
 | Quiz automation            | 🟢 Working | [Watch Demo](https://youtu.be/TrJqspKdKlw) Feedback-based accuracy improvement. |
-| Course Backup              | 🟢 Working | [Watch Demo](https://youtu.be/KpmoToGLD-I) |
+| Skip Video+                | 🟢 Working |                                                                                 |
+| Course Backup              | 🟢 Working | [Watch Demo](https://youtu.be/KpmoToGLD-I)                                      |
 
 ## Installation
 
@@ -65,6 +67,10 @@ To generate a **Shareable Link** for your assignment submission:
 1. **Navigate to the Submission Page**: Ensure you're on the "My Submission" tab of your assignment.
 
 2. **Use the Extension**: Click the "Shareable Link" button provided by the extension.
+
+## Skip Video+
+
+Automatically skip Coursera video lectures and mark them as completed.
 
 ## Quiz Automation
 
