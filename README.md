@@ -40,7 +40,7 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 | Complete discussions       | 🟢 Working |                                                                                 |
 | Shareable link             | 🟢 Working |                                                                                 |
 | Quiz automation            | 🟢 Working | [Watch Demo](https://youtu.be/TrJqspKdKlw) Feedback-based accuracy improvement. |
-| Skip Video+                | 🟢 Working | [Watch Demo](https://youtu.be/QBKqjqhCtYw)                                      |
+| Skip Video+                | 🟢 Working | [Watch Demo](https://youtu.be/3OZZ5n2eS8s)                                      |
 | Course Backup              | 🟢 Working | [Watch Demo](https://youtu.be/KpmoToGLD-I)                                      |
 
 ## Installation
@@ -71,6 +71,8 @@ To generate a **Shareable Link** for your assignment submission:
 ## Skip Video+
 
 Automatically skip Coursera video lectures and mark them as completed.
+
+- Remove the existing extension, then Reinstall the extension.
 
 ## Quiz Automation
 
