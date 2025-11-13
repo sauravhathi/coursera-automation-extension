@@ -106,3 +106,9 @@ If you find this extension helpful, consider supporting its development to keep 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/sauravhathi/coursera-automation-extension/blob/master/LICENSE) file for details.
+
+---
+
+> ⚠️ This extension is an independent tool designed for personal learning productivity and is not affiliated with or endorsed by Coursera.
+
+---
