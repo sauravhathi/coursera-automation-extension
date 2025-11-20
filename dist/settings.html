@@ -13,9 +13,10 @@
     <header>
       <h1>Settings</h1>
     </header>
-    
+
     <div class="tabs">
       <div class="tab active" data-tab="course">Course Backup</div>
+      <div class="tab" data-tab="additional">Additional</div>
     </div>
 
     <div id="course" class="tab-content active">
@@ -37,6 +38,16 @@
 
       <button id="saveBtn">💾 Save Settings</button>
       <div id="status"></div>
+    </div>
+    <div id="additional" class="tab-content">
+      <section>
+        <h3>Speech Settings</h3>
+        <label for="speechToggle">Enable Speech Guide</label>
+        <input type="checkbox" id="speechToggle" />
+      </section>
+
+      <button id="saveSpeechBtn">💾 Save</button>
+      <div id="speechStatus"></div>
     </div>
   </div>
 
