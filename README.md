@@ -1,6 +1,6 @@
 # Coursera Automation Extension
 
-![Version](https://img.shields.io/badge/version-3.6.3-blue)
+![Version](https://img.shields.io/badge/version-3.6.4-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
@@ -88,7 +88,7 @@ Extension will automatically get the solutions and mark the correct options.
 ## Keyboard Shortcuts
 
 - `Alt + W` or `Alt + B`: Toggle the Extension
-- `Alt + Z` or `Ctrl + Shift + Z`: Refresh the answers
+- `Alt + Z` or `Ctrl + Shift + Z`: Refresh the answers or Navigate to the next question(mark as correct)
 
 ## Support the Developer
 
