@@ -1,6 +1,6 @@
 # Coursera Automation Extension
 
-![Version](https://img.shields.io/badge/version-3.6.4-blue)
+![Version](https://img.shields.io/badge/version-3.6.5-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
