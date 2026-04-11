@@ -15,11 +15,11 @@
     </header>
 
     <div class="tabs">
-      <div class="tab active" data-tab="course">Course Backup</div>
-      <div class="tab" data-tab="additional">Additional</div>
+      <div class="tab" data-tab="course">Course Backup</div>
+      <div class="tab active" data-tab="additional">Additional</div>
     </div>
 
-    <div id="course" class="tab-content active">
+    <div id="course" class="tab-content">
       <section>
         <h3>Course Backup Settings</h3>
         <label for="concurrency">Concurrent Downloads</label>
@@ -39,15 +39,33 @@
       <button id="saveBtn">💾 Save Settings</button>
       <div id="status"></div>
     </div>
-    <div id="additional" class="tab-content">
+    <div id="additional" class="tab-content active">
       <section>
         <h3>Speech Settings</h3>
-        <label for="speechToggle">Enable Speech Guide</label>
-        <input type="checkbox" id="speechToggle" />
+        <div class="setting-item">
+          <label for="speechToggle">Enable Speech Guide</label>
+          <input type="checkbox" id="speechToggle" />
+        </div>
       </section>
 
-      <button id="saveSpeechBtn">💾 Save</button>
-      <div id="speechStatus"></div>
+      <section>
+        <h3>Automation Settings</h3>
+        <div class="setting-item">
+          <label for="autoQuizToggle">Auto Quiz Attempt</label>
+          <input type="checkbox" id="autoQuizToggle" />
+        </div>
+        <div class="setting-item">
+          <label for="autoSubmitQuizToggle">Auto Submit Quiz</label>
+          <input type="checkbox" id="autoSubmitQuizToggle" />
+        </div>
+        <div class="setting-item">
+          <label for="autoPopupToggle">Auto Popup on Expiry</label>
+          <input type="checkbox" id="autoPopupToggle" />
+        </div>
+      </section>
+
+      <button id="saveAdditionalBtn">💾 Save</button>
+      <div id="additionalStatus"></div>
     </div>
   </div>
 
