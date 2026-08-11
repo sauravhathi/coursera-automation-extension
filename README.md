@@ -1,6 +1,6 @@
 # Coursera Automation Extension
 
-![Version](https://img.shields.io/badge/version-3.6.6-blue)
+![Version](https://img.shields.io/badge/version-3.6.7-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
@@ -81,7 +81,7 @@ Extension will automatically get the solutions and mark the correct options.
 `Note:` When you Reattempt the quiz, it's using the previous attempt feedback to improve the accuracy of the answers.
 
 1. Open the quiz you want to complete.
-2. **Wait 10 seconds** for answers to load.
+2. **Wait 5 seconds** for answers to load.
 3. If answers aren't marked correctly, press Alt + Z for a refresh.
 4. Submit your answers.
 
