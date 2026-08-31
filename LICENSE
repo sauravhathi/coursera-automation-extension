@@ -1,21 +1,94 @@
-MIT License
+Business Source License 1.1
 
-Copyright (c) 2024 Saurav Hathi
+Parameters
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Licensor:             Saurav Hathi
+Licensed Work:        Coursera Automation Extension
+                      The Licensed Work is (c) 2024 Saurav Hathi
+Change Date:          2027-08-31
+Change License:       MIT License
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+For information about alternative licensing arrangements for the Licensed Work,
+please visit: https://algoplug.com/products/coursera-automation
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+Notice
+
+Business Source License 1.1
+
+This Business Source License (this "Agreement") is entered into as of the date
+of first use of the Licensed Work (the "Effective Date") by the entity exercising
+permissions granted by this License ("you" or "Licensee") and Saurav Hathi ("Licensor").
+
+1. GRANT OF RIGHTS
+
+1.1 Subject to the terms and conditions of this Agreement, Licensor hereby grants
+to Licensee a non-exclusive, non-transferable, royalty-free license, with the
+right to sublicense, to do the following for the Licensed Work:
+
+(a) prepare Derivatives of the Licensed Work;
+(b) reproduce the Licensed Work (excluding Derivatives thereof);
+(c) use, perform, display, and distribute copies of the Licensed Work
+    (excluding Derivatives thereof);
+(d) make, use, sell, offer to sell, sell, import, and have made any products
+    that incorporate the Licensed Work; and
+
+provided that Licensee does not use the Licensed Work for a Prohibited Purpose.
+
+1.2 Licensee may grant sublicenses of rights granted in Section 1.1(a), (b),
+and (c) on materially the same terms as this Agreement, provided that:
+
+(a) such sublicenses explicitly bind the sublicensee to the terms of this Agreement; and
+(b) the sublicensee does not use the Licensed Work for a Prohibited Purpose.
+
+2. PROHIBITED PURPOSES
+
+You may not use the Licensed Work for any purpose that:
+
+(a) generates revenue directly from the Licensed Work's functionality, features,
+    or services;
+(b) provides the Licensed Work as a service or platform to third parties;
+(c) repackages or resells the Licensed Work with or without modifications; or
+(d) competes with Licensor's commercial offering of the Licensed Work.
+
+Personal use, non-commercial use, and internal business use (not for resale)
+are permitted.
+
+3. CHANGE OF LICENSE
+
+On the Change Date, this Agreement will terminate and the Licensed Work will
+be released under the Change License on an irrevocable basis.
+
+4. CONTRIBUTIONS
+
+All contributions, suggestions, and feedback regarding features or changes to
+the Licensed Work may be submitted to Licensor. By submitting contributions,
+you grant Licensor a royalty-free, perpetual license to use such contributions.
+
+5. TERMINATION
+
+Licensor may terminate this License immediately upon written notice if:
+
+(a) Licensee violates any material term of this Agreement and fails to cure
+    within thirty (30) days of receiving written notice; or
+(b) Licensee uses the Licensed Work for a Prohibited Purpose.
+
+6. DISCLAIMER OF WARRANTY
+
+THE LICENSED WORK IS PROVIDED "AS-IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, REGARDLESS OF THE CAUSE OF ACTION OR
+THEORY OF LIABILITY.
+
+8. GOVERNING LAW
+
+This Agreement shall be governed by the laws of India, without regard to its
+conflict of law provisions.
+
+---
+
+For more details, visit: https://algoplug.com/products/coursera-automation
