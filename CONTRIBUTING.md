@@ -1,36 +1,52 @@
-### Contribution Guidelines for Coursera Automation Extension
+# Contributing Guidelines for Coursera Automation Extension
 
-Thank you for considering contributing to the Coursera Automation Extension! Here are some guidelines to help you get started:
+Thank you for your interest in the Coursera Automation Extension! We appreciate your support and feedback.
 
-## How to Contribute
+## 📝 Submitting Suggestions & Feature Requests
 
-1. **Fork the Repository**
-   - Clone your fork to your local machine.
-   - Add the original repository as an upstream remote to keep your fork updated.
+Since the code is proprietary and obfuscated, we **do not accept direct code contributions**. However, we welcome your ideas and suggestions!
 
-2. **Create a Branch**
-   - Create a new branch for your feature or bugfix.
-   - Use a descriptive name for your branch (e.g., `feature/add-new-feature` or `bugfix/fix-issue`).
+### How to Submit a Suggestion or Feature Request
 
-3. **Make Changes**
-   - Write clear and concise commit messages.
-   - Follow the coding style and conventions used in the project.
-   - Test your changes thoroughly before committing.
+1. **Check Existing Issues**
+   - Before submitting, search the [Issues](https://github.com/sauravhathi/coursera-automation-extension/issues) section to see if your suggestion already exists.
+   - If it does, feel free to add a comment or reaction to show your support.
 
-4. **Push Changes**
-   - Push your changes to your forked repository.
-   - Create a pull request to the main repository.
-   - Provide a clear description of your changes and the problem they solve.
+2. **Create a New Issue**
+   - Click on "New Issue" in the Issues section.
+   - Use a clear and descriptive title for your suggestion.
+   - Provide details about what you'd like to see improved or added.
+   - Explain why you think this feature would be valuable.
 
-## Guidelines for Reporting Issues
+3. **Feedback on Existing Features**
+   - Share your thoughts on how we can improve current features.
+   - Report any bugs or unexpected behavior you encounter.
 
-1. **Search Existing Issues**
-   - Before opening a new issue, search the existing issues to avoid duplicates.
+## 🐛 Reporting Issues
+
+1. **Search First**
+   - Check if the issue has already been reported to avoid duplicates.
 
 2. **Create a Detailed Report**
    - Provide a clear and descriptive title.
    - Describe the steps to reproduce the issue.
-   - Include any relevant logs, screenshots, or code snippets.
+   - Include relevant screenshots, logs, or error messages.
+   - Specify your browser version and OS.
 
-3. **Label Your Issues**
-   - Use appropriate labels to categorize your issues (e.g., bug, enhancement, question).
+3. **Use Appropriate Labels**
+   - Help us categorize your issue with labels like `bug`, `enhancement`, or `question`.
+
+## ⚖️ License Terms
+
+Please note that this project is licensed under the **Business Source License 1.1 (BSL-1.1)**, which means:
+- The code is proprietary and cannot be modified or redistributed.
+- You can use the free and paid features as intended.
+- Any contributions or suggestions you provide will be owned by the project maintainers.
+
+## 📧 Contact
+
+For additional questions or inquiries, please visit: https://algoplug.com/products/coursera-automation
+
+---
+
+**Thank you for helping us make Coursera Automation Extension better!**
