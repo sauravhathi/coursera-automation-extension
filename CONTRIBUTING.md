@@ -39,6 +39,7 @@ Since the code is proprietary and obfuscated, we **do not accept direct code con
 ## ⚖️ License Terms
 
 Please note that this project is licensed under the **Business Source License 1.1 (BSL-1.1)**, which means:
+
 - The code is proprietary and cannot be modified or redistributed.
 - You can use the free and paid features as intended.
 - Any contributions or suggestions you provide will be owned by the project maintainers.
