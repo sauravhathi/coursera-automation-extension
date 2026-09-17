@@ -1,6 +1,6 @@
 # Coursera Automation Extension
 
-![Version](https://img.shields.io/badge/version-3.6.8-blue)
+![Version](https://img.shields.io/badge/version-3.6.9-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue)
 
@@ -42,7 +42,7 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 | Quiz automation                      | 🟢 Working | [Watch Demo](https://youtu.be/TrJqspKdKlw) Feedback-based accuracy improvement. |
 | Skip Video+                          | 🟢 Working | [Watch Demo](https://youtu.be/3OZZ5n2eS8s)                                      |
 | Course Backup                        | 🟢 Working | [Watch Demo](https://youtu.be/KpmoToGLD-I)                                      |
-| Locking browser                      | 🟢 Working | [Watch Demo](https://youtu.be/pd5HfVeC4AM) 
+| Locking browser                      | 🟢 Working | [Watch Demo](https://youtu.be/pd5HfVeC4AM)                                      |
 
 ## Installation
 
