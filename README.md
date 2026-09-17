@@ -42,7 +42,7 @@ Using this extension, complete Coursera courses within seconds. It can be used f
 | Quiz automation                      | 🟢 Working | [Watch Demo](https://youtu.be/TrJqspKdKlw) Feedback-based accuracy improvement. |
 | Skip Video+                          | 🟢 Working | [Watch Demo](https://youtu.be/3OZZ5n2eS8s)                                      |
 | Course Backup                        | 🟢 Working | [Watch Demo](https://youtu.be/KpmoToGLD-I)                                      |
-| Locking browser                      | 🟢 Working |
+| Locking browser                      | 🟢 Working | [Watch Demo](https://youtu.be/pd5HfVeC4AM) 
 
 ## Installation
 
